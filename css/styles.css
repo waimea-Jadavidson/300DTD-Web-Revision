@@ -18,3 +18,7 @@ img{
     height: 10rem;
 }
 
+section#likes div{
+    display: flex;
+    gap: 1rem;
+}
