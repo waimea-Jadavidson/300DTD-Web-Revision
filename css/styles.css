@@ -1,0 +1,20 @@
+section#hero{
+    min-height: 20rem;
+    background-color: var(--pico-secondary-background);
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+    border-radius: 10px;
+}
+
+section#hero h2 {
+    color: var(--pico-color);
+    font-size: 5rem;
+}
+img{
+    width: 10rem;
+    height: 10rem;
+}
+
